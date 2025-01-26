@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Vowel {
+public class VowelCounter {
     public static void main(String[] args) {
         try (Scanner get = new Scanner(System.in)) {
             System.out.println("Enter a Word to check for Vowels:");
